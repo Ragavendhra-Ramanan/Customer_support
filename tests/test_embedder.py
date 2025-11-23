@@ -1,7 +1,6 @@
 import pytest
 import numpy as np
 from src.embedder import DocumentEmbedder
-import os
 
 
 @pytest.fixture

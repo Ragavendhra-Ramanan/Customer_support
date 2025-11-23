@@ -2,7 +2,6 @@ import pytest
 import numpy as np
 from src.retriever import DocumentRetriever
 import json
-import os
 
 
 @pytest.fixture
